@@ -1,18 +1,18 @@
-# Hi there, I'm Chethan T! 👋
+# Hi there, I'm Kavya! 👋
 
-🚀 *A passionate Frontend & Backend Developer with a love for AI-ML, from India*
+🚀 *A Passionate Frontend & Backend Developer with a love for AI-ML, from India*
 
 🌱 Currently exploring TypeScript and Next.js to level up my developer toolkit
 
 💻 *Skilled in:*
 - HTML, CSS, Tailwind CSS, Material UI
 - JavaScript, TypeScript, React, JSX, Vite, Next.js
-- Python, C, C++, Java
-- Node.js, Express.js, MongoDB, REST APIs
+- Python, Node.js, Express.js, MongoDB, REST APIs
+- C, C++, Java
 
 🛠 *Tools I use:*
-- VS Code, Postman, Thunder Client, Git, GitHub
-- MongoDB Compass, MongoDB Atlas
+- VS Code, Postman, Thunder Client
+- Git, GitHub, MongoDB Compass, MongoDB Atlas
 - Netlify, Render, Vercel
 - Canva, Adobe tools
 
@@ -21,13 +21,10 @@
 - Pandas, NumPy
 - Scikit Learn for Machine Learning
 - Basic Deep Learning concepts
-- Problem solving using ML algorithms
 
 🎯 *I’m looking to work as a Full Stack Web Developer*
 
 🎨 *Passionate about crafting seamless UI/UX and building scalable full stack applications*
-
-📫 *Reach out to me on [LinkedIn] https://www.linkedin.com/in/chethan-t-675339251 *
 
 ---
 
@@ -40,7 +37,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
 
@@ -69,7 +65,6 @@
 ## 🔧 *Tools & Technologies*
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-000000?style=flat&logo=thunderclient&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -78,6 +73,14 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
+
+---
+
+## 🌐 *Connect with Me*
+
+📧 *Email:* chethangowda98227@gmail.com  
+💼 *LinkedIn:* [[Your LinkedIn](https://www.linkedin.com/in/chethan-t-675339251)]  
+📸 *Instagram:* [Your Instagram](your-instagram-link)
 
 ---
 
