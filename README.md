@@ -1,4 +1,4 @@
-# Hi there, I'm Chrthan T! 👋
+# Hi there, I'm Chethan T! 👋
 
 🚀 *A Passionate Frontend & Backend Developer with a love for AI-ML, from India*
 
