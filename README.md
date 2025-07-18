@@ -27,7 +27,7 @@
 
 🎨 *Passionate about crafting seamless UI/UX and building scalable full stack applications*
 
-📫 *Reach out to me on [LinkedIn](your-linkedin-link)*
+📫 *Reach out to me on [LinkedIn] https://www.linkedin.com/in/chethan-t-675339251 *
 
 ---
 
