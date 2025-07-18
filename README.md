@@ -79,8 +79,7 @@
 ## 🌐 *Connect with Me*
 
 📧 *Email:* chethangowda98227@gmail.com  
-💼 *LinkedIn:* [[Your LinkedIn](https://www.linkedin.com/in/chethan-t-675339251)]  
-📸 *Instagram:* [Your Instagram](your-instagram-link)
+💼 *LinkedIn:* [[LinkedIn](https://www.linkedin.com/in/chethan-t-675339251)]  
 
 ---
 
