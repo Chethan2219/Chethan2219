@@ -1,4 +1,4 @@
-# Hi there, I'm Kavya! 👋
+# Hi there, I'm Chrthan T! 👋
 
 🚀 *A Passionate Frontend & Backend Developer with a love for AI-ML, from India*
 
